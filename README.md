@@ -1,7 +1,8 @@
-# ClinicCases
+# EduCases
 
-ClinicCases is an open source case management system designed
-specifically for law school clinics.  It uses PHP and MySQL.
+EduCases is an open source case management system designed
+specifically for special education advocates. It is based on 
+the wonderful ClinicCases. It uses PHP and MySQL.
 
 ## Features
 
